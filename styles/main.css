@@ -7982,6 +7982,30 @@ button.close {
   visibility: hidden !important;
 }
 
+.ip-0 {
+  padding: 0 !important;
+}
+
+.ip-1 {
+  padding: 0.3rem !important;
+}
+
+.ip-2 {
+  padding: 0.5rem !important;
+}
+
+.ip-3 {
+  padding: 0.7rem !important;
+}
+
+.ip-4 {
+  padding: 0.9rem !important;
+}
+
+.ip-5 {
+  padding: 1rem !important;
+}
+
 @media (min-width: 576px) {
   .float-sm-left {
     float: left !important;
